@@ -1,0 +1,13 @@
+body {
+	background-color: lightsteelblue;
+}
+
+h1 {
+        animation: example 1s linear infinite;
+        cursor: col-resize;
+        text-align: center;
+}
+
+.extreme{
+	transform: rotate(5deg);
+}
